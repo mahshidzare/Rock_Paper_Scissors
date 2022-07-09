@@ -1,0 +1,11 @@
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\Rock_Paper_Scissors.exe.config
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\Rock_Paper_Scissors.exe
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\Rock_Paper_Scissors.pdb
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.csproj.AssemblyReference.cache
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.csproj.SuggestedBindingRedirects.cache
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.csproj.GenerateResource.cache
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.exe
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.pdb
+D:\zare\myProjects\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.Forms.FrmMain.resources
